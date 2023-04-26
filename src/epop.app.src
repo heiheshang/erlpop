@@ -1,4 +1,4 @@
-{application,erlpop,
+{application,epop,
  [{vsn,""},
   {description,"epop"},
   {applications,[]},
