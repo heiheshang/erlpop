@@ -1,0 +1,9 @@
+{application,erlpop,
+ [{vsn,""},
+  {description,"epop"},
+  {applications,[]},
+  {registered,[]},
+  {env,[]},
+  {maintainers,["heiheshang"]},
+  {licenses,["Apache 2.0"]},
+  {links,[{"Github","https://github.com/heiheshangr/erlpop"}]}]}.
